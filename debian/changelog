@@ -1,0 +1,11 @@
+libvmod-example (0.2) unstable; urgency=medium
+
+  * Packaging bump, no changes.
+
+ -- Lasse Karstensen <lkarsten@varnish-software.com>  Mon, 03 Nov 2014 11:05:13 +0100
+
+libvmod-example (0.1) unstable; urgency=low
+
+  * First version
+
+ -- Lasse Karstensen <lasse@varnish-software.com>  Wed, 19 Sep 2012 15:03:00 +0200
